@@ -1,4 +1,4 @@
-<h1>Dashboard_Template</h1>
+<h1>Dashboard Template</h1>
 
 <p>Repositório para apresentação de um dasboard com diversas 
     funcionalidades. Foi feito com backend em NodeJs, base de 
